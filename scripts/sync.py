@@ -43,7 +43,7 @@ PHASES = [
 ]
 
 def load():
-    s = yaml.safe_load((ROOT / "progress.yml").read_text())
+    s = yaml.safe_load((ROOT / "progress.yml").read_text(encoding="utf-8"))
     assert 0 <= s["level"] <= 9 and 0 <= s["phase"] <= 9 and 0 <= s["xp"] <= 10 ** 5, "progress.yml fora dos limites"
     assert s["xp"] >= LEVELS[s["level"]][0], f"nível {s['level']} exige {LEVELS[s['level']][0]} XP, mas xp={s['xp']}"
     return s
@@ -176,10 +176,10 @@ def main():
     check = "--check" in sys.argv
     s = load(); stale = []
     for rel, fn in TARGETS:
-        p = ROOT / rel; old = p.read_text(); new = fn(old, s)
+        p = ROOT / rel; old = p.read_text(encoding="utf-8"); new = fn(old, s)
         if new != old:
             stale.append(rel)
-            if not check: p.write_text(new)
+            if not check: p.write_text(new, encoding="utf-8", newline="")
     if check and stale:
         sys.exit("Fora de sincronia com progress.yml: " + ", ".join(stale) + "\nRode: python scripts/sync.py")
     print(("Atualizados: " + ", ".join(stale)) if stale and not check else "Tudo em sincronia.")
