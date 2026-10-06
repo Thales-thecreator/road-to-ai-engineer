@@ -38,7 +38,6 @@ XP: só o XP de missões/chefões/aulas concluídas nessa sessão. O bônus sema
 |2026-09-29| 40 | 🟩 | Completei a introdução do [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) sobre Commits, branches, merge e rebase. | M0.4 | 15 |
 |2026-09-29| 5 | 🟨 | Escrevi o Porque de estar estudando e objetivos e também os desafios e a rotina e por fim defini 3 horários fixos para estudo. | M0.5 | 15 |
 |2026-09-30| 20 | 🟩 | Aula sobre oque é Machine Learning, oque é um modelo, treino e rótulos. | M0.6 | 10 |
-|2026-10-05| 25 | 🟩 | Rodei meu primeiro pipeline testando 10 frases para ver se o modelo acertava se eram positivas, nagativas ou neutras | M0.7 | 20 |
 
 **Resultado da semana:** 6 sessões · semana de aquecimento (sem meta, fora do streak)
 
@@ -46,3 +45,4 @@ XP: só o XP de missões/chefões/aulas concluídas nessa sessão. O bônus sema
 
 | Data | Min | Tipo | O que fiz | Missão | XP |
 |---|:---:|:---:|---|---|:---:|
+|2026-10-05| 25 | 🟨 | Rodei meu primeiro pipeline testando 10 frases para ver se o modelo acertava se eram positivas, nagativas ou neutras | M0.7 | 20 |

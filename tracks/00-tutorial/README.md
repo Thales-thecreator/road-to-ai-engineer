@@ -39,7 +39,7 @@ Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no
   Abra o Claude Code neste repo e rode `/teach O que é Machine Learning, em linguagem simples, para quem nunca programou`. Faça o quiz da aula.
   **Evidência:** a aula salva em `classroom/lessons/`.
 
-- [ ] **M0.7 · Primeiro feitiço** · ✨ *A Faísca* — 20 XP
+- [x] **M0.7 · Primeiro feitiço** · ✨ *A Faísca* — 20 XP
   Sinta o poder antes de entender tudo. Num notebook novo do Colab, rode um modelo de IA **pré-treinado** que lê o sentimento de frases em português:
   ```python
   from transformers import pipeline

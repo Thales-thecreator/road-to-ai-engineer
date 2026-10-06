@@ -49,6 +49,7 @@ Todos os comandos, com exemplos e regras (desafiar o chefão, santuário, postos
 | Cena 4 | [O Nó de Duas Raízes](./cenas/0004-o-labirinto.md) · M0.4 | Prólogo |
 | Cena 5 | [Três Tochas na Névoa](./cenas/0005-tres-tochas.md) · M0.5 | Prólogo |
 | Cena 6 | [O Nome no Gelo](./cenas/0006-o-nome-no-gelo.md) · M0.6 | Prólogo |
+| Cena 7 | [A Faísca](./cenas/0007-a-faisca.md) · M0.7 | Prólogo |
 
 ## 🎲 Jogue você também
 

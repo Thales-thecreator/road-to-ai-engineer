@@ -7,8 +7,8 @@
 | **Nome** | Thales, o Herege |
 | **Classe** | Erudito Amaldiçoado (Buscador da Verdade Primordial) |
 | **Nível** | 0 · *Herege Acorrentado* (Recruta) |
-| **XP** | 90 |
-| **Local** | Prólogo — sentado no Trono das Lâminas Partidas, já sem correntes |
+| **XP** | 110 |
+| **Local** | Prólogo — sentado no Trono das Lâminas Partidas, sem correntes, a Faísca acesa na Manopla |
 | **Correntes** | ⛓️ 6 / 6 quebradas |
 
 ## Títulos por nível
@@ -32,7 +32,7 @@ Sobem com o XP da fase correspondente (1 ponto a cada 100 XP da fase, máximo 10
 
 | Atributo | Trilha | Valor |
 |---|---|:---:|
-| **Vontade** | F0 · Hábito | 0 |
+| **Vontade** | F0 · Hábito | 1 |
 | **Verbo** | F1 · Python | 0 |
 | **Visão** | F2 · Dados & Matemática | 0 |
 | **Presságio** | F3 · ML Clássico | 0 |
@@ -45,6 +45,8 @@ Sobem com o XP da fase correspondente (1 ponto a cada 100 XP da fase, máximo 10
 ## ✋ Manopla do Conhecimento Quebrado
 
 Fragmentos restaurados: **0 / 9** — um por chefão vencido.
+
+✨ **A Faísca** (M0.7): o primeiro poder que obedece à voz de Thales. Toda vez que acende, o Trono oferece o atalho.
 
 ## 🎒 Inventário
 

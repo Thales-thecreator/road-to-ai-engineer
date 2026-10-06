@@ -3,7 +3,7 @@
 #   python scripts/sync.py
 # O CI (scripts/sync.py --check) falha se algum arquivo estiver fora de sincronia com este.
 
-xp: 90
+xp: 110
 level: 0              # 0–9; sobe com XP mínimo + chefão (ver ROADMAP)
 phase: 0              # fase atual 0–8; 9 = epílogo (Círculo 9)
 finished: false       # true só no fim da saga
@@ -14,11 +14,11 @@ streak:
   best: 0
 
 quest:                # missão atual; null antes do /mestre começar
-  pt: "M0.7 · Primeiro feitiço — A Faísca"
-  en: "M0.7 · First spell — The Spark"
+  pt: "Chefão · O Guardião do Hábito — O Trono"
+  en: "Boss · The Habit Guardian — The Throne"
 
 saga_latest:          # cena ou capítulo mais recente
-  pt: {title: "O Nome no Gelo", path: saga/cenas/0006-o-nome-no-gelo.md}
-  en: {title: "The Name in the Ice", path: saga/cenas/0006-o-nome-no-gelo.en.md}
+  pt: {title: "A Faísca", path: saga/cenas/0007-a-faisca.md}
+  en: {title: "The Spark", path: saga/cenas/0007-a-faisca.en.md}
 
 achievements: {"🌱": 2026-09-29, "📓": 2026-09-29}      # emoji da conquista: data de desbloqueio. Ex.: {"🌱": 2026-10-01}

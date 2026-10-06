@@ -51,6 +51,7 @@ Every command, with examples and rules (challenge the boss, sanctuary, outposts,
 | Scene 4 | [The Knot of Two Roots](./cenas/0004-o-labirinto.en.md) · M0.4 | Prologue |
 | Scene 5 | [Three Torches in the Mist](./cenas/0005-tres-tochas.en.md) · M0.5 | Prologue |
 | Scene 6 | [The Name in the Ice](./cenas/0006-o-nome-no-gelo.en.md) · M0.6 | Prologue |
+| Scene 7 | [The Spark](./cenas/0007-a-faisca.en.md) · M0.7 | Prologue |
 
 ## 🎲 Play it yourself
 

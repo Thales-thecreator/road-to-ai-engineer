@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/n%C3%ADvel-0%20·%20Recruta-6e7681?style=for-the-badge" alt="Nível">
-  <img src="https://img.shields.io/badge/XP-90%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
+  <img src="https://img.shields.io/badge/XP-110%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
   <img src="https://img.shields.io/badge/fase-0%20·%20Tutorial-1f6feb?style=for-the-badge" alt="Fase">
   <img src="https://img.shields.io/badge/streak-0%20semanas-f0883e?style=for-the-badge" alt="Streak">
   <a href="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml"><img src="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml/badge.svg" alt="QA"></a>
@@ -21,9 +21,9 @@
 **Aprendendo ML, MLOps e AI Engineering em público.** Cada fase termina num projeto entregue: repositório próprio, testes, métricas reais e demo pública. Os [projetos](#-projetos-em-destaque) vêm primeiro; o RPG de fantasia sombria que me mantém estudando fica [mais abaixo](#-a-saga).
 
 <!-- quest:start -->
-> - ⚔️ **Missão atual:** M0.7 · Primeiro feitiço — A Faísca
-> - 📜 **Último da saga:** [O Nome no Gelo](./saga/cenas/0006-o-nome-no-gelo.md)
-> - 🔥 **Streak:** 0 semanas · **Próximo nível:** Aprendiz (faltam 60 XP)
+> - ⚔️ **Missão atual:** Chefão · O Guardião do Hábito — O Trono
+> - 📜 **Último da saga:** [A Faísca](./saga/cenas/0007-a-faisca.md)
+> - 🔥 **Streak:** 0 semanas · **Próximo nível:** Aprendiz (faltam 40 XP)
 <!-- quest:end -->
 
 ## 👋 Sobre mim

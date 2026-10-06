@@ -7,8 +7,8 @@
 | **Name** | Thales the Heretic |
 | **Class** | Cursed Scholar (Seeker of the Primordial Truth) |
 | **Level** | 0 · *Chained Heretic* (Recruit) |
-| **XP** | 90 |
-| **Location** | Prologue — seated on the Throne of Broken Blades, no longer chained |
+| **XP** | 110 |
+| **Location** | Prologue — seated on the Throne of Broken Blades, unchained, the Spark lit in the Gauntlet |
 | **Chains** | ⛓️ 6 / 6 broken |
 
 ## Titles by level
@@ -32,7 +32,7 @@ Rise with the XP of the matching phase (1 point per 100 phase XP, max 10).
 
 | Attribute | Track | Value |
 |---|---|:---:|
-| **Will** | F0 · Habit | 0 |
+| **Will** | F0 · Habit | 1 |
 | **Word** | F1 · Python | 0 |
 | **Sight** | F2 · Data & Math | 0 |
 | **Omen** | F3 · Classical ML | 0 |
@@ -45,6 +45,8 @@ Rise with the XP of the matching phase (1 point per 100 phase XP, max 10).
 ## ✋ Gauntlet of Shattered Knowledge
 
 Fragments restored: **0 / 9** — one per boss defeated.
+
+✨ **The Spark** (M0.7): the first power that obeys Thales's voice. Every time it ignites, the Throne offers the shortcut.
 
 ## 🎒 Inventory
 

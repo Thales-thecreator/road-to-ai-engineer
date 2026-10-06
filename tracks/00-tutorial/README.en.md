@@ -39,7 +39,7 @@ Tick `[x]` when done, log it in `LOG.md`, and close the matching GitHub issue.
   Open Claude Code in this repo and run `/teach What is Machine Learning, in plain language, for someone who has never programmed`. Take the lesson's quiz.
   **Evidence:** the lesson saved in `classroom/lessons/`.
 
-- [ ] **M0.7 · First spell** · ✨ *The Spark* — 20 XP
+- [x] **M0.7 · First spell** · ✨ *The Spark* — 20 XP
   Feel the power before you understand it all. In a new Colab notebook, run a **pretrained** AI model that reads the sentiment of sentences in Portuguese:
   ```python
   from transformers import pipeline

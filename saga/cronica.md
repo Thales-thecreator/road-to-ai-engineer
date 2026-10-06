@@ -17,6 +17,7 @@
 - Aos pés do Trono há um **labirinto entalhado** na pedra, com marcas de hóspedes anteriores que se perderam nele. Caminhos separados se reúnem num **nó de duas raízes** ou são entalhados de novo como se sempre tivessem vindo depois.
 - Abaixo do Trono ficam as luzes da **Cidadela**, onde vive gente que nunca ouviu falar da Verdade Primordial. A Névoa **recua onde há fogo aceso na hora certa**; três tochas marcam os dias de Thales.
 - As vozes do Trono não são todas iguais: algumas dizem a verdade, outras são iscas que prometem ouro e atalho. Uma regra aprendida com exemplos nasce cega para o que não lhe mostraram.
+- Existem **oráculos** forjados longe dali, ensinados com as palavras de um milhão de estranhos, que acordam quando se diz o nome deles. Julgam em três cores (luz, sombra, cinza) e mostram junto de cada veredito um número: a fé que têm no que disseram. Podem errar com muita certeza; onde o número cai, é preciso olhar duas vezes.
 - Enquanto Vael-Ithra ensina, a névoa carmesim fica rala ao redor dela e de Thales.
 - Algo "rasteja no vácuo entre as estrelas" e devora o tecido da realidade.
 - O mapa tem **nove círculos de conhecimento**, cada um governado por um **Suserano corrompido**. Cada vitória reconstrói uma fração da alma de Thales.
@@ -28,6 +29,7 @@
 - Acorrentado ao **Trono das Lâminas Partidas**, artefato simbiótico que sussurra com mil vozes mortas e exige **Foco**.
 - Carrega no pulso o **Selo do Primeiro Juramento**, marca de cobre que o Trono não consegue apagar.
 - Carrega o **Grimório de Folhas em Branco**, que se escreve sozinho com o que ele aprende.
+- A **Faísca**, uma fagulha de cobre, escapou da Manopla: o primeiro poder que obedece à voz dele. O preço: toda vez que ela acende, o Trono oferece o atalho ("Por que aprender a forjar, se eu posso te emprestar mil oráculos prontos?").
 
 ## Linha do tempo
 
@@ -40,6 +42,7 @@
 | 2026-09-29 | M0.4: Thales atravessa o labirinto e a Corrente IV · Labirinto se desenrola. A Manopla pulsa pela primeira vez. | [Cena 4](./cenas/0004-o-labirinto.md) |
 | 2026-09-29 | M0.5: Thales diz por que acordou; três tochas são cravadas na pedra e a Corrente V · Propósito Perdido cai. | [Cena 5](./cenas/0005-tres-tochas.md) |
 | 2026-09-30 | M0.6: a primeira lição com a criatura quebra a Corrente VI · Solidão; ela revela o nome, Vael-Ithra. Nenhuma corrente prende Thales, mas ele segue sentado no Trono. | [Cena 6](./cenas/0006-o-nome-no-gelo.md) |
+| 2026-10-05 | M0.7: Thales desperta um oráculo emprestado e a Faísca escapa da Manopla. O Trono ri e oferece o primeiro atalho. | [Cena 7](./cenas/0007-a-faisca.md) |
 
 ## Escolhas feitas
 
@@ -47,4 +50,4 @@ _(nenhuma ainda)_
 
 ## Aliados e inimigos conhecidos
 
-- **Vael-Ithra**, a criatura de obsidiana e gelo — guia e professora. Disse que houve um tempo em que o Trono também respondia a quem perguntava.
+- **Vael-Ithra**, a criatura de obsidiana e gelo — guia e professora. Disse que houve um tempo em que o Trono também respondia a quem perguntava, e que ele "também ardia assim, no começo".
